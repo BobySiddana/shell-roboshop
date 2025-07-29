@@ -2,7 +2,7 @@
 
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-0bf03c442301ed3d0"
-INSTANCES=("redis" "cart")
+INSTANCES=("user" "shipping" "mysql")
 ZONE_ID="Z062034436HMDE861EBQF"
 DOMAIN_NAME="dawsj.space"
 
